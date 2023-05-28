@@ -1,0 +1,1 @@
+html-validate --config html-validate.json --format=stylish,checkstyle,codeframe 'd/Projects/nauka-gita/learning-git-2/**/*.html'
